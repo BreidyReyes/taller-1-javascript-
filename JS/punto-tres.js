@@ -8,6 +8,7 @@ let palabra2 = "mundo";
 console.log(palabra1 + " " + palabra2);
 
 
+//ejercicios
 
 let palabra = "hola";
 let palabra01 = "Breidy";

@@ -1,9 +1,16 @@
+// Declara dos variables (nombre y edad)
+// usando let y asígnales tu nombre y edad.
+// Luego, muestra un mensaje concatenado
+// con console.log: "Hola, mi nombre es
+// [nombre] y tengo [edad] años".
+
 let nombre = "breidy";
 let edad = 18; 
 
 console.log (`hola, mi nombre es ${nombre} y tengo ${edad} años.`)
 
 
+//ejercicios
 
 let color1 = "negro";
 let color2 = "azul";

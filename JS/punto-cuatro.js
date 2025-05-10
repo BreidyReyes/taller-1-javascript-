@@ -1,8 +1,8 @@
-// let palabra1 = "javascript ";
-// let palabra2 = "es divertido";
+let palabraa1 = "javascript ";
+let palabraa2 = "es divertido";
 
-// let frase = palabra1.concat(palabra2);
-// console.log (frase);
+let fraseee = palabraa1.concat(palabraa2);
+console.log (fraseee);
 
 
 
